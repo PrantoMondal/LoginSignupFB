@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368276980310",
+    "project_id": "loginsignupfb-7b5c7",
+    "storage_bucket": "loginsignupfb-7b5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368276980310:android:cc4fe39ecf926e61d1f1f7",
+        "android_client_info": {
+          "package_name": "com.prantomondal.loginsignupfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368276980310-7nvn7ism608tm541r4uigdm2up5e0vkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgzgxdYPwZJs80X1LI3vJVBA2vfeen8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368276980310-7nvn7ism608tm541r4uigdm2up5e0vkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
